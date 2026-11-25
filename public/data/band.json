@@ -1,0 +1,19 @@
+{
+  "name": "Alice in Chains",
+  "formed": 1987,
+  "origin": "Сіетл, Вашингтон, США",
+  "genres": ["грандж", "альтернативний метал", "хард-рок", "сладж-метал"],
+  "yearsActive": ["1987–2002", "2005–дотепер"],
+  "labels": ["Columbia", "Virgin/EMI", "Capitol", "BMG"],
+  "intro": "Alice in Chains — гурт із Сіетла, що разом із Nirvana, Pearl Jam і Soundgarden визначив звучання гранджу на початку 90-х. Важкі рифи Джеррі Кантрелла, похмурі гармонії двох голосів і відверті тексти про залежність, біль і втрату зробили їхню музику однією з найтемніших і найчесніших у рок-музиці.",
+  "stats": {
+    "grammyNominations": 11,
+    "riaaCertifiedRecords": "понад 30 мільйонів",
+    "mainstreamRockTop10": 18,
+    "mainstreamRockNumberOnes": 5
+  },
+  "links": {
+    "website": "https://aliceinchains.com",
+    "wikipedia": "https://uk.wikipedia.org/wiki/Alice_in_Chains"
+  }
+}

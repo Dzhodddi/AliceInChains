@@ -1,0 +1,74 @@
+[
+  {
+    "id": "jerry-cantrell",
+    "name": "Jerry Cantrell",
+    "nameUk": "Джеррі Кантрелл",
+    "role": "соло-гітара, вокал",
+    "years": "1987–2002, 2005–дотепер",
+    "active": true,
+    "born": "1966-03-18",
+    "died": null,
+    "photo": "/img/members/jerry-cantrell.jpg",
+    "bio": "Засновник гурту, головний автор пісень і гітарист. Його впізнавані важкі рифи та вокальні гармонії зі Стейлі, а згодом із ДюВаллом, стали фірмовим звучанням Alice in Chains. Паралельно випускає сольні альбоми."
+  },
+  {
+    "id": "sean-kinney",
+    "name": "Sean Kinney",
+    "nameUk": "Шон Кінні",
+    "role": "ударні, перкусія",
+    "years": "1987–2002, 2005–дотепер",
+    "active": true,
+    "born": "1966-05-27",
+    "died": null,
+    "photo": "/img/members/sean-kinney.jpg",
+    "bio": "Барабанщик і один із засновників гурту. Грає в усіх складах Alice in Chains від 1987 року."
+  },
+  {
+    "id": "mike-inez",
+    "name": "Mike Inez",
+    "nameUk": "Майк Айнез",
+    "role": "бас-гітара, бек-вокал",
+    "years": "1993–2002, 2005–дотепер",
+    "active": true,
+    "born": "1966-05-14",
+    "died": null,
+    "photo": "/img/members/mike-inez.jpg",
+    "bio": "До Alice in Chains грав в Ozzy Osbourne. Приєднався на початку 1993 року, замінивши Майка Старра. Дебютував на EP «Jar of Flies»."
+  },
+  {
+    "id": "william-duvall",
+    "name": "William DuVall",
+    "nameUk": "Вільям ДюВалл",
+    "role": "вокал, ритм-гітара",
+    "years": "2006–дотепер",
+    "active": true,
+    "born": "1967-09-06",
+    "died": null,
+    "photo": "/img/members/william-duvall.jpg",
+    "bio": "Вокаліст гурту Comes with the Fall. Вперше виступив з Alice in Chains 10 березня 2006 року на шоу VH1 Decades Rock Live. Перший альбом з ним — «Black Gives Way to Blue» (2009)."
+  },
+  {
+    "id": "layne-staley",
+    "name": "Layne Staley",
+    "nameUk": "Лейн Стейлі",
+    "role": "вокал, ритм-гітара",
+    "years": "1987–2002",
+    "active": false,
+    "born": "1967-08-22",
+    "died": "2002-04-05",
+    "photo": "/img/members/layne-staley.jpg",
+    "bio": "Оригінальний вокаліст із неповторним потужним і надривним голосом. Назва гурту походить від його попереднього колективу Alice N' Chains. Багато років боровся із залежністю. Тіло знайшли 19 квітня 2002 року; ймовірна дата смерті — 5 квітня."
+  },
+  {
+    "id": "mike-starr",
+    "name": "Mike Starr",
+    "nameUk": "Майк Старр",
+    "role": "бас-гітара, бек-вокал",
+    "years": "1987–1993",
+    "active": false,
+    "born": "1966-04-04",
+    "died": "2011-03-08",
+    "photo": "/img/members/mike-starr.jpg",
+    "bio": "Перший басист гурту. Грав на «Facelift», «Sap» і «Dirt». Залишив гурт у січні 1993 року під час туру на підтримку «Dirt»."
+  }
+]
